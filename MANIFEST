@@ -1,0 +1,11 @@
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
+README
+lib/Devel/embed.pm
+t/build.t
+t/embed.c
+t/embed.pl
+t/embed.t
+t/minimod.PL
+t/writetest.pl
